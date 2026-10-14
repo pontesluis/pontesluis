@@ -55,4 +55,19 @@
 ## 📊 Estatísticas em Tempo Real
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=pontesluis&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&icon_color=2496ED" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pontesluis&theme=transparent&hide_border=true&stroke=0000&ring=2496ED&fire=2496ED" alt="Streak de Commits" />
+</div>
+
+<br/>
+
+## 🌐 Vamos Conectar!
+
+<div align="center">
+  <a href="https://github.com/pontesluis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/luisbrdg" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
